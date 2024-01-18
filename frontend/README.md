@@ -3,7 +3,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+# job-application-frontend
 
+
+
+# react version required: ^18.2.0
+
+Start Project
+# npm install
+# npm start
 In the project directory, you can run:
 
 ### `npm start`
